@@ -7,7 +7,6 @@
 Расчёт и визуализация ключевых показателей эффективности (KPI) предприятия.
 
 ## Стек
-
 - Python 3.10+
 - pandas
 - matplotlib
@@ -15,11 +14,9 @@
 ## Запуск
 
 python -m venv .venv
-source .venv/bin/activate # или .venv\\Scripts\\activate для
-Windows
+source .venv/bin/activate # или .venv\Scripts\activate для Windows
 pip install -r requirements.txt
 python main.py
 
 Автор
-Студент группы Б1123-38.03.05ба(1), ФИО: Мельситова Виолетта Сергеевна
-
+Студент группы Б1123-38.03.05ба(1), Мельситова Виолетта Сергеевна
