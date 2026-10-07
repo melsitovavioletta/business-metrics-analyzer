@@ -10,5 +10,6 @@ def main():
     print(df)
     print("Средняя выручка:", df["Выручка"].mean())
 
+
 if __name__ == "__main__":
     main()

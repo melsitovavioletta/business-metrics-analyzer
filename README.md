@@ -6,11 +6,12 @@
 
 Расчёт и визуализация ключевых показателей эффективности (KPI) предприятия.
 
-## Используемые технологии
+## Стек
 - Python 3.10+
-- Git, GitHub
+- pandas
+- matplotlib
 
-## Инструкция по запуску
+## Запуск
 
 python -m venv .venv  
 source .venv/bin/activate # или .venv\Scripts\activate для Windows  
