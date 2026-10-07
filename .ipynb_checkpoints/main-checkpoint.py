@@ -10,13 +10,5 @@ def main():
     print(df)
     print("Средняя выручка:", df["Выручка"].mean())
 
-def calculate_profitability(revenue: float, cost: float) -> float:
-    """Возвращает рентабельность в процентах."""
-    if revenue == 0:
-        return 0.0
-    else:
-        return (revenue - cost) / revenue * 100
-
 if __name__ == "__main__":
     main()
-    print(calculate_profitability(30000, 10000))
