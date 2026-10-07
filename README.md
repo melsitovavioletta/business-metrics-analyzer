@@ -11,7 +11,11 @@
 - pandas
 - matplotlib
 
-## Запуск
+## Планируемые метрики
+- Средняя выручка
+- Рентабельность
+
+## Инструкция по запуску
 
 python -m venv .venv  
 source .venv/bin/activate # или .venv\Scripts\activate для Windows  
